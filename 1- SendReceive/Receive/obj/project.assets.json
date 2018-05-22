@@ -4192,11 +4192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\RabbitMQ_NetCore\\Receive\\Receive.csproj",
+      "projectUniqueName": "D:\\repos\\RabbitMQ_NetCore\\1- SendReceive\\Receive\\Receive.csproj",
       "projectName": "Receive",
-      "projectPath": "D:\\repos\\RabbitMQ_NetCore\\Receive\\Receive.csproj",
+      "projectPath": "D:\\repos\\RabbitMQ_NetCore\\1- SendReceive\\Receive\\Receive.csproj",
       "packagesPath": "C:\\Users\\nigue\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\RabbitMQ_NetCore\\Receive\\obj\\",
+      "outputPath": "D:\\repos\\RabbitMQ_NetCore\\1- SendReceive\\Receive\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

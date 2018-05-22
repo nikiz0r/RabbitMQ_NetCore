@@ -9,3 +9,14 @@ D:\repos\RabbitMQ_NetCore\Receive\obj\Debug\netcoreapp2.0\Receive.AssemblyInfoIn
 D:\repos\RabbitMQ_NetCore\Receive\obj\Debug\netcoreapp2.0\Receive.AssemblyInfo.cs
 D:\repos\RabbitMQ_NetCore\Receive\obj\Debug\netcoreapp2.0\Receive.dll
 D:\repos\RabbitMQ_NetCore\Receive\obj\Debug\netcoreapp2.0\Receive.pdb
+D:\repos\RabbitMQ_NetCore\1- SendReceive\Receive\bin\Debug\netcoreapp2.0\Receive.deps.json
+D:\repos\RabbitMQ_NetCore\1- SendReceive\Receive\bin\Debug\netcoreapp2.0\Receive.runtimeconfig.json
+D:\repos\RabbitMQ_NetCore\1- SendReceive\Receive\bin\Debug\netcoreapp2.0\Receive.runtimeconfig.dev.json
+D:\repos\RabbitMQ_NetCore\1- SendReceive\Receive\bin\Debug\netcoreapp2.0\Receive.dll
+D:\repos\RabbitMQ_NetCore\1- SendReceive\Receive\bin\Debug\netcoreapp2.0\Receive.pdb
+D:\repos\RabbitMQ_NetCore\1- SendReceive\Receive\obj\Debug\netcoreapp2.0\Receive.csprojResolveAssemblyReference.cache
+D:\repos\RabbitMQ_NetCore\1- SendReceive\Receive\obj\Debug\netcoreapp2.0\Receive.csproj.CoreCompileInputs.cache
+D:\repos\RabbitMQ_NetCore\1- SendReceive\Receive\obj\Debug\netcoreapp2.0\Receive.AssemblyInfoInputs.cache
+D:\repos\RabbitMQ_NetCore\1- SendReceive\Receive\obj\Debug\netcoreapp2.0\Receive.AssemblyInfo.cs
+D:\repos\RabbitMQ_NetCore\1- SendReceive\Receive\obj\Debug\netcoreapp2.0\Receive.dll
+D:\repos\RabbitMQ_NetCore\1- SendReceive\Receive\obj\Debug\netcoreapp2.0\Receive.pdb
