@@ -15,10 +15,14 @@ namespace Worker
             using (var channel = connection.CreateModel())
             {
                 channel.QueueDeclare(queue: "task_queue",
-                                    durable: false,
+                                    durable: true,
                                     exclusive: false,
                                     autoDelete: false,
                                     arguments: null);
+
+                channel.BasicQos(prefetchSize: 0, prefetchCount: 1, global: false);
+
+                Console.WriteLine(" [*] Waiting for messages.");
 
                 var consumer = new EventingBasicConsumer(channel);
                 consumer.Received += (model, ea) =>
